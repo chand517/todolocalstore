@@ -1,0 +1,32 @@
+h1{
+    
+    color:black;
+    
+
+    
+}
+.list{
+    /* border: 1px solid blue; */
+    /* border: 1px solid red; */
+    height: 150px;
+    background-color: greenyellow;
+    margin-bottom:50px;
+    padding-top: 40px;
+    padding-left: 500px;
+}
+h4{
+    margin-bottom: 10px;
+    font-size: x-large;
+    font-weight: 1000;
+    font-style: italic;
+
+}
+ul{
+    /* border: 1px solid blue; */
+    justify-content: center;
+    /* padding-left: 150px; */
+    list-style: none;
+}
+.button{
+    background-color: aqua;
+}
